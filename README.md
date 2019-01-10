@@ -1,16 +1,16 @@
 # gvtek0.github.io
 
-This is the repository for my personal GitHub Pages site. I will be building a similar full-stack version of this site in the coming days.
+This is the repository for my personal GitHub Pages site. I will be building a similar full-stack version of this site in the coming days. Flask is my preferred option right now, but who knows what else might interest me here soon. It's a journey, after all.
 
 ## Why now?
 
-Ultimtely, a lot of the tools I'm going to be using to upload/update projects are things that I have used for years, however I never really took the time to put together a public portfolio. So, that is now going to be changing. It's not just to be more public with what I'm working on, but also to brush up on things that I may have been slowly fogetting.
+Ultimately, many of the tools I'm going to be using to create/upload/update projects are things that I have used for years, however I never really took the time to put together a public portfolio. That is now going to be changing. I am extremely passionate about technology and especially cloud computing. This is not just about being more public, but also about brushing up on things that I may have been slowly forgetting. (like spelling, apparently :p)
 
-### Just a few of the technologies I'll be working with in the coming months in order to showcase some of my knowledge...
+### Just a few random technologies I'll be working with in the coming months in order to showcase some of my knowledge...
 
-Python Flask, MySQL or PostgreSQL, Linux, git (obviously), AWS, NGINX.
+Python Flask, MySQL or PostgreSQL, Linux, git (obviously), AWS, NGINX, and *probably* eventually GitHub webhooks in Jenkins for some builds for Kubernetes containers (I've already had some production experience with this in the recent past, just not for personal projects). I'm not going to list all of them, that's what the site and a resume are for!
 
-Some of these technologies, I have years of familiarity with, others I'm brushing up on, and others I'm adding to the toolbox.
+I have years of familiarity with some of these technologies, others I'm brushing up on, and others I'm adding to the toolbox.
 
 #### Development box specs:
 
